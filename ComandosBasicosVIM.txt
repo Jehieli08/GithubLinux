@@ -1,8 +1,16 @@
-
-
 i Entrar en el modo de inserción
 Esc entrar en el como comando
 supr borrar un caracter
 x el caracter de borrado es el modo de retroceso
 u deshacer cambios
 ctrl+r rehacer cambios 
+yy  >opiar una línea
+dd  >Eliminar una línea
+p  >Pegar el contenido del buffer
+/<search_term>  >Buscar y luego recorrer las coincidencias con n y N
+[[ o gg  >Mover al principio de un archivo
+]] o G  >Mover al final de un archivo
+:%s/foo/bar/gci  >Buscar y reemplazar todas las ocurrencias con confirmación
+sc + :w  >ardar cambios
+Esc + :wq o Esc + ZZ  >Guardar y salir de Vim
+Esc + :q!  >Forzar la salida de Vim descartando todos los cambios
