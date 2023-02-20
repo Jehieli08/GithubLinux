@@ -1,0 +1,8 @@
+
+
+i Entrar en el modo de inserción
+Esc entrar en el como comando
+supr borrar un caracter
+x el caracter de borrado es el modo de retroceso
+u deshacer cambios
+ctrl+r rehacer cambios 
